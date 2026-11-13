@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Shanto" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">#0A1428</item>
+        <item name="android:statusBarColor">#0A1428</item>
+    </style>
+</resources>
